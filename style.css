@@ -16,6 +16,17 @@
     height: 50px;
     background-color: royalblue;
 }
+.animate {
+    animation: jump 1s;
+}
+
+
+@keyframes jump {
+    0%{top:150px;}
+    30%{top: 100px;}
+    70%{top: 100px;}
+    100%{top: 150px;}
+}
 
 #block {
     position: relative;
