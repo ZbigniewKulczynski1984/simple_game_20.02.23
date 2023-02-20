@@ -1,1 +1,5 @@
-# simple_game_20.02.23
+# Simple game
+
+## HTML
+## CSS
+## JavsScript
